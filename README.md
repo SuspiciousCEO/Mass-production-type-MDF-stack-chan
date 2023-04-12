@@ -10,6 +10,8 @@
 筐体ボディは共通部分が多いので、他の派生ｽﾀｯｸﾁｬﾝ（たとえば[AIｽﾀｯｸﾁｬﾝ](https://github.com/robo8080/M5Unified_StackChan_ChatGPT)
 など）でもそのまま使うことが可能でしょう。
 
+※写真は開発途中のものです。
+
 ## 特徴
 
 オリジナルの[3Dプリンター版ｽﾀｯｸﾁｬﾝ](https://github.com/meganetaaan/stack-chan/tree/dev/v1.0/case)に比べ以下の点が優れています。
@@ -76,8 +78,7 @@ MDFは木材と紙の両方の雰囲気があるので、絵具などで色塗�
 
 
 ## 欠点（ただし解決策や妥協点はあり）
-![xHWpc](https://user-images.githubusercontent.com/88123439/231469033-87c824a6-2ba2-4b61-8a0f-18bbd7ab0ee7.jpeg)
-
+![2023-03-22_16-26-15_848](https://user-images.githubusercontent.com/88123439/231473435-e7ad9e66-5ca3-4298-9d2b-3b3a74d1366d.jpg)
 
 
 ### レーザー加工機が必要
@@ -102,7 +103,7 @@ SG90というホビー向けサーボモーターは類似品が多く出回っ�
 
 1). 本データーで切り出したMDFパーツ一式
 
-2). M5Stack CORE2
+2). M5Stack CORE2（構成がほぼ同一のAWS版やおそらくBasicでも可）
 
 3). SG90系サーボモーター2個
 
