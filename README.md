@@ -1,6 +1,7 @@
 # 量産型MDFｽﾀｯｸﾁｬﾝ
 
-![2023-03-27_22-08-37_863](https://user-images.githubusercontent.com/88123439/231469222-6e2311c2-8570-445a-b4b6-2f0818143eed.jpeg)
+![2023-03-27_22-08-37_863](https://user-images.githubusercontent.com/88123439/231469222-6e2311c2-8570-445a-b4b6-2f0818143eed.jpeg)![2023-03-30_22-56-36_258](https://user-images.githubusercontent.com/88123439/231470215-a5d5a515-c3e0-4a81-9a26-0253a7b09d8a.jpeg)
+
 
 
 これはスーパーカワイイロボット [ｽﾀｯｸﾁｬﾝ(Stack-chan)](https://github.com/meganetaaan/stack-chan)
@@ -14,13 +15,9 @@
 オリジナルの[3Dプリンター版ｽﾀｯｸﾁｬﾝ](https://github.com/meganetaaan/stack-chan/tree/dev/v1.0/case)に比べ以下の点が優れています。
 
 
-![2023-03-30_19-45-50_679](https://user-images.githubusercontent.com/88123439/231469448-95a8341f-9e66-4a44-88da-187a032ded01.jpeg)
+![2023-03-30_19-45-50_679](https://user-images.githubusercontent.com/88123439/231469448-95a8341f-9e66-4a44-88da-187a032ded01.jpeg)![2023-03-30_19-45-04_290](https://user-images.githubusercontent.com/88123439/231469620-78870211-7d06-4f7f-933a-b4ba650461ca.jpeg)
 
-![2023-03-30_19-45-04_290](https://user-images.githubusercontent.com/88123439/231469620-78870211-7d06-4f7f-933a-b4ba650461ca.jpeg)
-
-![2023-03-30_19-36-18_647](https://user-images.githubusercontent.com/88123439/231469720-89add461-9cec-4f34-a300-df104f1e76e5.jpeg)
-
-![2023-03-30_19-46-54_690](https://user-images.githubusercontent.com/88123439/231469815-e8aab340-1a15-4d4a-8f9c-dbc2f8350d69.jpeg)
+![2023-03-30_19-36-18_647](https://user-images.githubusercontent.com/88123439/231469720-89add461-9cec-4f34-a300-df104f1e76e5.jpeg)![2023-03-30_19-46-54_690](https://user-images.githubusercontent.com/88123439/231469815-e8aab340-1a15-4d4a-8f9c-dbc2f8350d69.jpeg)
 
 
 
@@ -100,6 +97,8 @@ SG90というホビー向けサーボモーターは類似品が多く出回っ�
 
 
 ## 必要なもの
+![2023-03-27_23-02-36_383](https://user-images.githubusercontent.com/88123439/231471070-ed12b323-3a51-44d7-9b58-38c871a4b7a3.jpeg)
+
 
 1). 本データーで切り出したMDFパーツ一式
 
