@@ -1,5 +1,7 @@
 # 量産型MDFｽﾀｯｸﾁｬﾝ
-![5RCeU](https://user-images.githubusercontent.com/88123439/231467319-f6d3f0d3-a26a-4f65-a3cd-21e20ee3306b.jpeg)
+
+![2023-03-27_22-08-37_863](https://user-images.githubusercontent.com/88123439/231469222-6e2311c2-8570-445a-b4b6-2f0818143eed.jpeg)
+
 
 これはスーパーカワイイロボット [ｽﾀｯｸﾁｬﾝ(Stack-chan)](https://github.com/meganetaaan/stack-chan)
 を量産しやすいようにケースをMDF2.5mm厚用に設計したものです。
@@ -11,10 +13,15 @@
 
 オリジナルの[3Dプリンター版ｽﾀｯｸﾁｬﾝ](https://github.com/meganetaaan/stack-chan/tree/dev/v1.0/case)に比べ以下の点が優れています。
 
-![dDIDn](https://user-images.githubusercontent.com/88123439/231468211-bbb7374b-36c5-4f58-931d-f3291daf85c4.jpeg)
-![jOHs0](https://user-images.githubusercontent.com/88123439/231468229-04abae23-9002-4927-b0df-ac827d297cd1.jpeg)
 
-![yEN5M](https://user-images.githubusercontent.com/88123439/231468244-352d42c6-e3c3-4e0e-a588-705499db5663.jpeg)
+![2023-03-30_19-45-50_679](https://user-images.githubusercontent.com/88123439/231469448-95a8341f-9e66-4a44-88da-187a032ded01.jpeg)
+
+![2023-03-30_19-45-04_290](https://user-images.githubusercontent.com/88123439/231469620-78870211-7d06-4f7f-933a-b4ba650461ca.jpeg)
+
+![2023-03-30_19-36-18_647](https://user-images.githubusercontent.com/88123439/231469720-89add461-9cec-4f34-a300-df104f1e76e5.jpeg)
+
+![2023-03-30_19-46-54_690](https://user-images.githubusercontent.com/88123439/231469815-e8aab340-1a15-4d4a-8f9c-dbc2f8350d69.jpeg)
+
 
 
 ### 組み立てと分解が簡単
@@ -72,9 +79,11 @@ MDFは木材と紙の両方の雰囲気があるので、絵具などで色塗�
 
 
 ## 欠点（ただし解決策や妥協点はあり）
+![xHWpc](https://user-images.githubusercontent.com/88123439/231469033-87c824a6-2ba2-4b61-8a0f-18bbd7ab0ee7.jpeg)
 
-### ![xHWpc](https://user-images.githubusercontent.com/88123439/231468574-2aa36663-182b-46b4-b24f-16eb5155f7ce.jpeg)
-レーザー加工機が必要
+
+
+### レーザー加工機が必要
 あらかじめ、レーザー加工機でMDF板からパーツを切り出す必要があります。
 （もちろんカッターナイフを使って手で切り出すことも可能かもしれませんがおすすめしません。）
 レーザー加工機は個人宅で所有運用するには敷居が高いものですが、
