@@ -1,6 +1,7 @@
 # 量産型MDFｽﾀｯｸﾁｬﾝ
+![5RCeU](https://user-images.githubusercontent.com/88123439/231467319-f6d3f0d3-a26a-4f65-a3cd-21e20ee3306b.jpeg)
 
-これは　[ｽﾀｯｸﾁｬﾝ(Stack-chan)](https://github.com/meganetaaan/stack-chan)
+これはスーパーカワイイロボット [ｽﾀｯｸﾁｬﾝ(Stack-chan)](https://github.com/meganetaaan/stack-chan)
 を量産しやすいようにケースをMDF2.5mm厚用に設計したものです。
 可能なかぎり、オリジナルのｽﾀｯｸﾁｬﾝSG90版筐体ボディとの動作の互換性を持たせています。
 筐体ボディは共通部分が多いので、他の派生ｽﾀｯｸﾁｬﾝ（たとえば[AIｽﾀｯｸﾁｬﾝ](https://github.com/robo8080/M5Unified_StackChan_ChatGPT)
@@ -9,6 +10,12 @@
 ## 特徴
 
 オリジナルの[3Dプリンター版ｽﾀｯｸﾁｬﾝ](https://github.com/meganetaaan/stack-chan/tree/dev/v1.0/case)に比べ以下の点が優れています。
+
+![dDIDn](https://user-images.githubusercontent.com/88123439/231468211-bbb7374b-36c5-4f58-931d-f3291daf85c4.jpeg)
+![jOHs0](https://user-images.githubusercontent.com/88123439/231468229-04abae23-9002-4927-b0df-ac827d297cd1.jpeg)
+
+![yEN5M](https://user-images.githubusercontent.com/88123439/231468244-352d42c6-e3c3-4e0e-a588-705499db5663.jpeg)
+
 
 ### 組み立てと分解が簡単
 **小学生高学年でも作れそうなレベルを目指しました。**
@@ -47,7 +54,7 @@
 その気になれば自由に再設計が可能です。
 
 
-### 後加工が容易
+### 木のぬくもり感と後加工が容易
 MDFは木材と紙の両方の雰囲気があるので、絵具などで色塗したり。ハサミなどであとからチョキチョキも可能。
 キリやピンバイス（ハンドドリル）で穴あけも容易です。
 紙を貼り合わせる場合でも水性のりでくっつくので接着剤を必要としません。
@@ -66,7 +73,8 @@ MDFは木材と紙の両方の雰囲気があるので、絵具などで色塗�
 
 ## 欠点（ただし解決策や妥協点はあり）
 
-### レーザー加工機が必要
+### ![xHWpc](https://user-images.githubusercontent.com/88123439/231468574-2aa36663-182b-46b4-b24f-16eb5155f7ce.jpeg)
+レーザー加工機が必要
 あらかじめ、レーザー加工機でMDF板からパーツを切り出す必要があります。
 （もちろんカッターナイフを使って手で切り出すことも可能かもしれませんがおすすめしません。）
 レーザー加工機は個人宅で所有運用するには敷居が高いものですが、
