@@ -101,7 +101,7 @@ SG90というホビー向けサーボモーターは類似品が多く出回っ�
 ![2023-03-27_23-02-36_383](https://user-images.githubusercontent.com/88123439/231471070-ed12b323-3a51-44d7-9b58-38c871a4b7a3.jpeg)
 
 
-1). 本データーで切り出したMDFパーツ一式
+1). 本データーで切り出したMDF2.5mm厚パーツ一式、（2.5mm厚であればベニア等でも可）
 
 2). M5Stack CORE2（構成がほぼ同一のAWS版やおそらくBasicでも可）
 
@@ -131,10 +131,40 @@ SG90というホビー向けサーボモーターは類似品が多く出回っ�
 
 
 
+## 組み立て方（マスキングテープ版）
+![2023-03-30_13-33-27_398](https://user-images.githubusercontent.com/88123439/232264226-dc6654e1-4166-4e64-844f-9b2ada9fabfc.jpg)
+
+### パーツAを2枚重ねて貼り合わせる
+![2023-03-30_19-28-26_104](https://user-images.githubusercontent.com/88123439/232264286-fbd5c89c-6da0-4651-bced-31276eb0a246.jpg)
+![2023-03-30_19-29-24_195](https://user-images.githubusercontent.com/88123439/232264327-1dc44ae8-5d24-4adf-bc49-75982cd4d52e.jpeg)
+![2023-03-30_19-30-24_535](https://user-images.githubusercontent.com/88123439/232264351-e2e72e4f-6a6f-46eb-bbd3-53d54685ef76.jpeg)
+
+### パーツAを骨組みにして、パーツB・C・Dを組み合わせて貼る。
+
+![2023-03-30_19-32-27_696](https://user-images.githubusercontent.com/88123439/232264659-9ea55862-f7de-47bc-8203-5b34fca06c08.jpeg)
+![2023-03-30_19-34-46_718](https://user-images.githubusercontent.com/88123439/232264661-e63681d9-eeee-4a89-9a67-6cead25c1098.jpeg)
+![2023-03-30_19-35-06_923](https://user-images.githubusercontent.com/88123439/232264672-2ecac8e1-5f0c-40d7-8b04-5b970245bcec.jpeg)
+
+### パーツE・F・Eをはさんで貼る。
+
+![2023-03-30_19-37-04_293](https://user-images.githubusercontent.com/88123439/232264814-24d81307-ce8a-4a4e-a8c0-ace8c51ffcdd.jpeg)
+![2023-03-30_19-38-57_710](https://user-images.githubusercontent.com/88123439/232264820-1108a2e6-2dbe-4aae-9321-c45176d77bc2.jpeg)
+![2023-03-30_19-37-54_783](https://user-images.githubusercontent.com/88123439/232264823-708c9fe1-02a5-4664-b8aa-c30e96ad9bc0.jpeg)
+
+### パーツHに[専用基板](https://github.com/akita11/Stack-chan_Takao_Base)を取り付ける
+輪っかの形をしているスペーサーを間にはさみながら、M3x6ネジとナットを使って締め付けます。
+
+外側＞ [M3x6ネジ] | [パーツH] | [スペーサー] | [専用基板] | [ナット] ＜内側
+
+![2023-04-06_11-33-05_987](https://user-images.githubusercontent.com/88123439/232265124-4144b662-440d-44d0-87a1-c39f16deffec.jpg)
+![2023-04-06_11-33-12_381](https://user-images.githubusercontent.com/88123439/232265125-c6610e6e-2eb2-4cbe-9978-81d20dd47099.jpg)
+![2023-04-06_11-33-58_831](https://user-images.githubusercontent.com/88123439/232265127-bef63392-c8bd-46ac-9418-e57b5f999c29.jpg)
 
 
 
 ## その他
+
+
 　
 ![2023-03-30_23-06-10_814](https://user-images.githubusercontent.com/88123439/231471900-3f551857-daca-4650-81e2-2d26484ee344.jpeg)
 ![2023-03-30_22-53-32_547](https://user-images.githubusercontent.com/88123439/231471967-ed2aaa7c-20ae-427c-8d21-c72a00f34ac6.jpeg)
