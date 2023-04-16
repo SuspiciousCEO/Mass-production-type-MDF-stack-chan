@@ -135,31 +135,33 @@ SG90というホビー向けサーボモーターは類似品が多く出回っ�
 ![2023-03-30_13-33-27_398](https://user-images.githubusercontent.com/88123439/232264226-dc6654e1-4166-4e64-844f-9b2ada9fabfc.jpg)
 
 ### パーツAを2枚重ねて貼り合わせる
-![2023-03-30_19-28-26_104](https://user-images.githubusercontent.com/88123439/232264286-fbd5c89c-6da0-4651-bced-31276eb0a246.jpg)
-![2023-03-30_19-29-24_195](https://user-images.githubusercontent.com/88123439/232264327-1dc44ae8-5d24-4adf-bc49-75982cd4d52e.jpeg)
-![2023-03-30_19-30-24_535](https://user-images.githubusercontent.com/88123439/232264351-e2e72e4f-6a6f-46eb-bbd3-53d54685ef76.jpeg)
+![2023-03-30_19-28-26_104](https://user-images.githubusercontent.com/88123439/232264286-fbd5c89c-6da0-4651-bced-31276eb0a246.jpg)![2023-03-30_19-29-24_195](https://user-images.githubusercontent.com/88123439/232264327-1dc44ae8-5d24-4adf-bc49-75982cd4d52e.jpeg)![2023-03-30_19-30-24_535](https://user-images.githubusercontent.com/88123439/232264351-e2e72e4f-6a6f-46eb-bbd3-53d54685ef76.jpeg)
 
 ### パーツAを骨組みにして、パーツB・C・Dを組み合わせて貼る。
 
-![2023-03-30_19-32-27_696](https://user-images.githubusercontent.com/88123439/232264659-9ea55862-f7de-47bc-8203-5b34fca06c08.jpeg)
-![2023-03-30_19-34-46_718](https://user-images.githubusercontent.com/88123439/232264661-e63681d9-eeee-4a89-9a67-6cead25c1098.jpeg)
-![2023-03-30_19-35-06_923](https://user-images.githubusercontent.com/88123439/232264672-2ecac8e1-5f0c-40d7-8b04-5b970245bcec.jpeg)
+![2023-03-30_19-32-27_696](https://user-images.githubusercontent.com/88123439/232264659-9ea55862-f7de-47bc-8203-5b34fca06c08.jpeg)![2023-03-30_19-34-46_718](https://user-images.githubusercontent.com/88123439/232264661-e63681d9-eeee-4a89-9a67-6cead25c1098.jpeg)![2023-03-30_19-35-06_923](https://user-images.githubusercontent.com/88123439/232264672-2ecac8e1-5f0c-40d7-8b04-5b970245bcec.jpeg)
 
 ### パーツE・F・Eをはさんで貼る。
 
-![2023-03-30_19-37-04_293](https://user-images.githubusercontent.com/88123439/232264814-24d81307-ce8a-4a4e-a8c0-ace8c51ffcdd.jpeg)
-![2023-03-30_19-38-57_710](https://user-images.githubusercontent.com/88123439/232264820-1108a2e6-2dbe-4aae-9321-c45176d77bc2.jpeg)
-![2023-03-30_19-37-54_783](https://user-images.githubusercontent.com/88123439/232264823-708c9fe1-02a5-4664-b8aa-c30e96ad9bc0.jpeg)
+![2023-03-30_19-37-04_293](https://user-images.githubusercontent.com/88123439/232264814-24d81307-ce8a-4a4e-a8c0-ace8c51ffcdd.jpeg)![2023-03-30_19-38-57_710](https://user-images.githubusercontent.com/88123439/232264820-1108a2e6-2dbe-4aae-9321-c45176d77bc2.jpeg)![2023-03-30_19-37-54_783](https://user-images.githubusercontent.com/88123439/232264823-708c9fe1-02a5-4664-b8aa-c30e96ad9bc0.jpeg)
 
 ### パーツHに[専用基板](https://github.com/akita11/Stack-chan_Takao_Base)を取り付ける
+
+![2023-04-06_11-33-05_987](https://user-images.githubusercontent.com/88123439/232265124-4144b662-440d-44d0-87a1-c39f16deffec.jpg)![2023-04-06_11-33-12_381](https://user-images.githubusercontent.com/88123439/232265125-c6610e6e-2eb2-4cbe-9978-81d20dd47099.jpg)![2023-04-06_11-33-58_831](https://user-images.githubusercontent.com/88123439/232265127-bef63392-c8bd-46ac-9418-e57b5f999c29.jpg)
 輪っかの形をしているスペーサーを間にはさみながら、M3x6ネジとナットを使って締め付けます。
 
 外側＞ [M3x6ネジ] | [パーツH] | [スペーサー] | [専用基板] | [ナット] ＜内側
 
-![2023-04-06_11-33-05_987](https://user-images.githubusercontent.com/88123439/232265124-4144b662-440d-44d0-87a1-c39f16deffec.jpg)
-![2023-04-06_11-33-12_381](https://user-images.githubusercontent.com/88123439/232265125-c6610e6e-2eb2-4cbe-9978-81d20dd47099.jpg)
-![2023-04-06_11-33-58_831](https://user-images.githubusercontent.com/88123439/232265127-bef63392-c8bd-46ac-9418-e57b5f999c29.jpg)
+### G・H・I・J・Kを組み合わせて箱状態にする。
 
+![2023-03-30_19-41-57_109](https://user-images.githubusercontent.com/88123439/232322111-44bdd356-63cb-40b5-889f-ea0756abc146.jpeg)![2023-03-30_19-43-58_409](https://user-images.githubusercontent.com/88123439/232322118-2613f12d-e428-43f7-a288-04808d7ad398.jpeg)![2023-03-30_19-44-11_916](https://user-images.githubusercontent.com/88123439/232322124-136e9b81-c1ec-4624-8021-5dc293ab4ab9.jpeg)
+
+### 足部分（パーツE・F・E）にサーボホーンをネジで固定。
+
+![2023-03-30_21-45-32_912](https://user-images.githubusercontent.com/88123439/232323156-ca4d74e7-a597-4944-b571-f202a7b7efae.jpeg)![2023-03-30_21-45-50_967](https://user-images.githubusercontent.com/88123439/232323162-2351beef-1063-47de-a32b-a4bb4af07198.jpeg)![2023-03-30_21-41-33_830](https://user-images.githubusercontent.com/88123439/232323148-a71ddc15-0a4e-4586-8df4-668b48c0338a.jpeg)
+
+サーボホーンの向きに注意。真ん中の形状をよく見て、細かいギザギザが中央部分にあるのがサーボモーター内側になります。
+このとき使うサーボモーターに付属しているネジは、先が少し尖っているので注意。
 
 
 ## その他
